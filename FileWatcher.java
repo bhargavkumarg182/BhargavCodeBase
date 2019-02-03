@@ -12,7 +12,7 @@ import java.io.IOException;
 import javax.swing.JOptionPane;
 
 import org.apache.commons.io.FileUtils;
-public class mover {
+public class FileWatcher {
 
 	public static void main(String[] args) throws InterruptedException {
 		String dirPath="";
